@@ -21,9 +21,9 @@ available   : Open to Internships & Full-Time Roles 🟢
 ```
 
 - 🎓 **B.Tech Student** at **Rajasthan Technical University, Kota**
-- 💻 Building real-world projects with **React, Node.js, Django & Firebase**
+- 💻 Building real-world projects with **Django, Flask, FastAPI & Firebase**
 - 🧠 Actively solving problems on **LeetCode** — sharpening DSA skills daily
-- 🌱 Currently leveling up in **Full Stack Dev + System Design**
+- 🌱 Currently leveling up in **Python Backend Dev + System Design**
 - 🤝 Love collaborating on open source and innovative projects
 - 📫 Reach me at: **kinchitgupta08@gmail.com**
 
@@ -37,7 +37,7 @@ available   : Open to Internships & Full-Time Roles 🟢
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9A6W2Xw6)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/kinchitgupta08)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinchitgupta08@gmail.com)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kinchitgupta08)
 
 </div>
 
@@ -55,27 +55,20 @@ available   : Open to Internships & Full-Time Roles 🟢
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
 ### ☁️ DevOps & Cloud
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 
 ### 🎨 Design Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -103,18 +96,12 @@ available   : Open to Internships & Full-Time Roles 🟢
 
 <div align="center">
 
-<!-- LeetCode Stats Card -->
-<img src="https://leetcard.jacoblin.cool/kinchitgupta08?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500"/>
-
-<br><br>
-
-<!-- LeetCode Activity Graph -->
-<img src="https://leetcode-stats-api.herokuapp.com/kinchitgupta08" alt="LeetCode Activity"/>
+<img src="https://leetcard.jacoblin.cool/hPMXKrmouh?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500"/>
 
 </div>
 
 > 🔥 Solving problems daily — Arrays, Strings, Trees, DP & more!  
-> 📌 Check my profile → [leetcode.com/kinchitgupta08](https://leetcode.com/kinchitgupta08)
+> 📌 Check my profile → [leetcode.com/u/hPMXKrmouh](https://leetcode.com/u/hPMXKrmouh/)
 
 ---
 
@@ -128,22 +115,12 @@ available   : Open to Internships & Full-Time Roles 🟢
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KinchitGupta&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🚀 What I'm Currently Working On
 
 | Area | Details |
 |------|---------|
 | 📚 DSA | Arrays → Linked Lists → Trees → Graphs → DP |
-| ☁️ Backend | Django REST Framework, FastAPI |
+| ☁️ Backend | Django REST Framework, FastAPI, Flask |
 | 🧠 CS Fundamentals | OS, DBMS, CN, OOP |
 
 ---
@@ -161,7 +138,7 @@ available   : Open to Internships & Full-Time Roles 🟢
 
 ### 💬 Recruiter? Let's Talk!
 
-📩 **kinchitgupta08@gmail.com** | 💼 [LinkedIn](https://linkedin.com/in/KinchitGupta) | 🌐 [Portfolio](#)
+📩 **kinchitgupta08@gmail.com** | 💼 [LinkedIn](https://linkedin.com/in/KinchitGupta) | 🟢 [HackerRank](https://www.hackerrank.com/profile/kinchitgupta08)
 
 <br>
 
