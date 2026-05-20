@@ -80,11 +80,6 @@ available   : Open to Internships & Full-Time Roles 🟢
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KinchitGupta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinchitGupta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KinchitGupta&theme=tokyonight&hide_border=false" height="180"/>
 
@@ -92,28 +87,6 @@ available   : Open to Internships & Full-Time Roles 🟢
 
 ---
 
-## 🧩 LeetCode Performance
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/hPMXKrmouh?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500"/>
-
-</div>
-
-> 🔥 Solving problems daily — Arrays, Strings, Trees, DP & more!  
-> 📌 Check my profile → [leetcode.com/u/hPMXKrmouh](https://leetcode.com/u/hPMXKrmouh/)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=KinchitGupta&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 🚀 What I'm Currently Working On
 
